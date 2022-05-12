@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "468655014735",
+    "project_id": "amalishopping",
+    "storage_bucket": "amalishopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468655014735:android:044392d348cc1adb9c3b3a",
+        "android_client_info": {
+          "package_name": "com.example.amali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468655014735-7es0g7s5n12ieduqvc7olfmgctv2e71a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amali",
+            "certificate_hash": "8701eca1545107e70cef74b22bcbe2a7716bb351"
+          }
+        },
+        {
+          "client_id": "468655014735-dgapcsqs4pjoh1hj7c0reusdp5n6dk2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzYC3W-A-zsjISijoo0_kp8o6lgmfFeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468655014735-dgapcsqs4pjoh1hj7c0reusdp5n6dk2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468655014735-9ma7dnmchh09i5hhfmktn2fgtjkjdmaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asu.amali"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468655014735:android:f9e1e3c8eb42ed089c3b3a",
+        "android_client_info": {
+          "package_name": "com.example.amali_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468655014735-dgapcsqs4pjoh1hj7c0reusdp5n6dk2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBzYC3W-A-zsjISijoo0_kp8o6lgmfFeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468655014735-dgapcsqs4pjoh1hj7c0reusdp5n6dk2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "468655014735-9ma7dnmchh09i5hhfmktn2fgtjkjdmaa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asu.amali"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
